@@ -1,6 +1,8 @@
 # Beautiful-Data-Inc
 # EV Charging Stations Strategy
 
+Link for Tableau- https://public.tableau.com/views/A3DESC/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 
 This project focuses on analyzing electric vehicle (EV) charging patterns and strategies across different localities, including metropolitan and regional areas. The primary goal is to understand the motivation behind EV charging behaviors and how these are influenced by factors such as the type of EV, locality, and potential fuel savings.
